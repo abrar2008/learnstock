@@ -1,0 +1,9 @@
+androidx/annotation/Keep.class
+androidx/core/app/CoreComponentFactory$a.class
+androidx/core/app/CoreComponentFactory.class
+androidx/lifecycle/h$b.class
+androidx/lifecycle/s.class
+androidx/window/core/ExperimentalWindowApi.class
+androidx/window/embedding/SplitRule$LayoutDir.class
+kotlin/coroutines/jvm/internal/f.class
+org/chromium/support_lib_boundary/WebSettingsBoundaryInterface$ForceDarkBehavior.class
